@@ -1,0 +1,9 @@
+1. What are the primary differences between Arrays and ArrayLists?
+Arrays are immutable and can store primative values
+Arraylists are muttable and can only store objects
+2. Why might you use an Array instead of an ArrayList?
+If the size is fixed
+3. Why might you use an ArrayList instead of an Array?
+If the size changes frequently
+4. How are Arrays and ArrayLists similar?
+They both store variables within them

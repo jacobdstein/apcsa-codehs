@@ -1,0 +1,7 @@
+1.
+Row major because you are referencing the same array until you move on to the next.
+
+
+2.
+When there are less rows
+When there are less columns

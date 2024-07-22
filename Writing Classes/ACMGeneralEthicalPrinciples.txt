@@ -1,0 +1,2 @@
+I can adhere to honoring privacy by not repeatadly prompting a user to enter
+unrequired information for my program if they decline.

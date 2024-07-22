@@ -1,0 +1,9 @@
+The pros of self-driving cars are that they can avoid crashes better than humans
+can and make better decisions.
+
+Self driving cars face ethical challenges with no-win situations because different
+cultures have different values.
+
+A way we can prevent ethical concerns with self-driving cars is by having the
+driver decide which outcome it would prefer in the situation and place the burden
+on the driver.

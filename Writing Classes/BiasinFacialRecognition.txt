@@ -1,0 +1,3 @@
+1. Facial recognition software can facilitate unlocking devices, identifying persons and more.
+2. Facial recognition can be more accustomed to recognizing people of a certain demographic based on what it was trained on.
+3. She refers to this as algorithmic bias.
